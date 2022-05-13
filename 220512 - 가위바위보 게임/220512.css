@@ -1,0 +1,44 @@
+@font-face {
+    font-family: 'GangwonEduPowerExtraBoldA';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2201-2@1.0/GangwonEduPowerExtraBoldA.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'beanpoleotB00';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2201-2@1.0/beanpoleotB00.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+h1{
+    text-align: center;
+    font-family: 'GangwonEduPowerExtraBoldA';
+}
+
+#rd{
+    margin: auto;
+    font-size: 200px;
+    width: 250px;
+    height: 250px;
+}
+
+#bt{
+    text-align: center;
+}
+
+button{
+    font-size: 40px;
+    width: 150px;
+    height: 50px;
+    margin: 10px;
+    font-family: 'beanpoleotB00';
+}
+
+#stop,#result{
+    margin: 10px;
+    text-align: center;
+    font-size: 40px;
+    font-family: 'beanpoleotB00';
+}
